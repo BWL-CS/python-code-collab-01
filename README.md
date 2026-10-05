@@ -1,4 +1,4 @@
-# cs3-wk02-codecollab
+# Post-AP Code Collab 01
 
 This repository provides the **working program** for this week's **CodeCollab homework assignment**. 
 
